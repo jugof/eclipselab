@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="example.hibernate.entity.Student"/>
+    <fullyQualifiedTypeName name="example.hibernate.utils.HibernateUtils"/>
+    <fullyQualifiedTypeName name="example.hibernate.entity.Stock"/>
+    <fullyQualifiedTypeName name="example.hibernate.entity.StockHolder"/>
+</qualifiedTypeNameHistroy>

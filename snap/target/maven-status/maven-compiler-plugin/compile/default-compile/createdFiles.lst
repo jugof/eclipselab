@@ -1,0 +1,7 @@
+example\hibernate\main\StcokHRecordInsertionMain.class
+example\hibernate\entity\Stock.class
+example\hibernate\entity\StockHolder.class
+example\hibernate\entity\Student.class
+example\hibernate\main\RecordInsetionMain.class
+example\hibernate\main\RecordMain.class
+example\hibernate\utils\HibernateUtils.class
