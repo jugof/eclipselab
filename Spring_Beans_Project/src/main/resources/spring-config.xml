@@ -18,5 +18,9 @@
     	class="example.hibernate.entity.StockHolder"
     	id="st2"/>
     	
+    <bean 
+    	class="example.hibernate.entity.Student"
+    	id="st3"/>
+    	
 
 </beans>

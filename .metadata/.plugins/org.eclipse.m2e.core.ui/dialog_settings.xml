@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\dac16\eclipse-workspace\Spring_Beans_Project"/>
 			<item value="C:\Users\dac16\eclipse-workspace\snap"/>
 			<item value="D:\cdac\RahulBarve\HibernateTest\Hibernate_Project\pom.xml"/>
 			<item value="D:\cdac\LabWork"/>
@@ -51,18 +52,24 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="spring2"/>
+			<item value="SpringBeans"/>
 			<item value="example.hibernate.associations"/>
 			<item value="Example.JpaHibernate"/>
 			<item value="JpaHibernate"/>
 			<item value="Snapshot"/>
 		</list>
 		<list key="name">
+			<item value="spring_example"/>
+			<item value="SpringBeans"/>
 			<item value="Hibernate_Associations_Project"/>
 			<item value="JpaHibernate"/>
 			<item value="JpaHibarnate"/>
 			<item value="chat"/>
 		</list>
 		<list key="artifactId">
+			<item value="spring2"/>
+			<item value="Spring_Beans_Project"/>
 			<item value="Hibernate_Associations_Projec"/>
 			<item value="JpaHibernate"/>
 			<item value="JpaHibernate_Project"/>
