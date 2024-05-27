@@ -6,6 +6,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\dac16\eclipse-workspace\SpringAnnotation"/>
+			<item value="C:\Users\dac16\eclipse-workspace\Spring_Beans_Project\src\main\resources\spring-config.xml"/>
 			<item value="C:\Users\dac16\eclipse-workspace\Spring_Beans_Project"/>
 			<item value="C:\Users\dac16\eclipse-workspace\snap"/>
 			<item value="D:\cdac\RahulBarve\HibernateTest\Hibernate_Project\pom.xml"/>
@@ -52,6 +54,8 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="example.springaop"/>
+			<item value="example.SpringAnnotation"/>
 			<item value="spring2"/>
 			<item value="SpringBeans"/>
 			<item value="example.hibernate.associations"/>
@@ -60,6 +64,8 @@
 			<item value="Snapshot"/>
 		</list>
 		<list key="name">
+			<item value="SpringAOP"/>
+			<item value="SpringAnnotation"/>
 			<item value="spring_example"/>
 			<item value="SpringBeans"/>
 			<item value="Hibernate_Associations_Project"/>
@@ -68,6 +74,8 @@
 			<item value="chat"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringAOP"/>
+			<item value="SpringAnnotation"/>
 			<item value="spring2"/>
 			<item value="Spring_Beans_Project"/>
 			<item value="Hibernate_Associations_Projec"/>
