@@ -95,4 +95,21 @@
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\dac16\Desktop\REST dependency\CarSales"/>
+			<item value="C:\Users\dac16\Desktop\REST dependency\SpringSecurityTest"/>
+			<item value="C:\Users\dac16\Desktop\REST dependency\SpringRestDataBase"/>
+			<item value="C:\Users\dac16\Desktop\REST dependency\SpringRest"/>
+			<item value="C:\Users\dac16\Desktop\REST dependency\REST_Project1\REST_Project1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>
