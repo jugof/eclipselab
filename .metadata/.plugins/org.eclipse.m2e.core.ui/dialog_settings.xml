@@ -97,6 +97,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\dac16\Desktop\REST dependency\Credentials"/>
 			<item value="C:\Users\dac16\Desktop\REST dependency\Pathological_lab"/>
 			<item value="C:\Users\dac16\Desktop\REST dependency\CarSales"/>
 			<item value="C:\Users\dac16\Desktop\REST dependency\SpringSecurityTest"/>
